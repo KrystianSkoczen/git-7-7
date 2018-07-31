@@ -215,10 +215,29 @@ img {
 	width: 25px;
 	height: 25px;
 	color: black;
-	font-size: 20px;
+	padding-top: 2px;
+	font-size: 18px;
 	border-radius: 50%;
 	border: solid 2px black;
 	text-align: center;
+}
+.fa-linkedin:hover {
+	cursor: pointer;
+	color: white;
+	border-color: #0077B5;
+	background-color: #0077B5;
+}
+.fa-facebook:hover {
+	cursor: pointer; 
+	color: #fff;
+	border-color: #3b5998;
+	background-color: #3b5998;
+}
+.fa-twitter:hover {
+	cursor: pointer;
+	color: #0084b4;
+	border-color: #fff;
+	background-color: #fff;
 }
 .team_footer {
 	text-align: center;
