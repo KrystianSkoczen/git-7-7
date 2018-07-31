@@ -175,7 +175,7 @@ header {
 }
 .about_img_left {
 	border-radius: 50%;
-	float: left;
+	margin-left: 10%;
 }
 .about_left {
 	margin: 0;
@@ -184,7 +184,7 @@ header {
 }
 .about_img_right {
 	border-radius: 50%;
-	float: right;
+	margin-left: 10%;
 }
 /* 
 start team
@@ -266,6 +266,7 @@ img {
 .btn-primary {
 	background-color: #fed136;
 	border-color: #fed136; 
+	margin-bottom: 40px; 
 }
 .btn-primary:hover {
 	background-color: #fbc50c;
