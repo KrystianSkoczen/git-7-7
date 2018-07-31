@@ -268,8 +268,22 @@ img {
 	border-color: #fed136; 
 }
 .btn-primary:hover {
-	background-color: #fed136;
+	background-color: #fbc50c;
+	border-color: #fbc50c;
 }
-textarea {
-	width: 200%;
+.txt_footer {
+	padding-top: 15px;
+	padding-left: 50px;
+	font-size: 12px;
+}
+.media_footer {
+	width: 25px;
+	height: 25px;
+	color: white;
+	padding-top: 2px;
+	font-size: 18px;
+	border-radius: 50%;
+	border: solid 2px black;
+	background-color: black;
+	text-align: center;
 }
