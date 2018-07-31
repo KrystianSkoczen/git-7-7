@@ -199,9 +199,7 @@ img {
 	height: 100%;
 	width: 100%;
 	border-radius: 50%;
-}
-.team__image {
-	border-radius: 50%;
+	margin-left: 50%;
 }
 .team_name {
 	font-weight: bold;
@@ -210,15 +208,20 @@ img {
 .team_title {
 	margin: 0;
 }
+.team_all {
+	text-align: right;
+}
 .black {
 	width: 25px;
 	height: 25px;
 	color: black;
 	font-size: 20px;
 	border-radius: 50%;
-	border: solid 2px black;	
+	border: solid 2px black;
+	text-align: center;
 }
 .team_footer {
-	padding: 0 15%;
+	text-align: center;
+	margin: 0 20%;
 }
 /* end team*/
