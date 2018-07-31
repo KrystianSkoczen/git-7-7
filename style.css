@@ -241,6 +241,35 @@ img {
 }
 .team_footer {
 	text-align: center;
-	margin: 0 20%;
+	margin: 3% 20% 10% 20%;
 }
-/* end team*/
+.technology {
+	margin: 0 15% 5% 15%;
+}
+.contact {
+	background-color: #222222;
+	color: #fff;
+}
+.subtitle {
+	color: #777;
+	font-style: italic;
+}
+.form-control {
+	border-radius: 0;
+}
+.data {
+	float: right;
+}
+.message {
+	float: left;
+}
+.btn-primary {
+	background-color: #fed136;
+	border-color: #fed136; 
+}
+.btn-primary:hover {
+	background-color: #fed136;
+}
+textarea {
+	width: 200%;
+}
